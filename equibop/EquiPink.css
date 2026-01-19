@@ -1,0 +1,50 @@
+/**
+ * @name EquiPink
+ * @description  Cute Vencord/Equibop theme to match hyprpink
+ * @author zhav0ronok
+ * @version 1.0.0
+*/
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+
+
+:root {
+  --accentcolor: 199,68,130;
+  --accentcolor2: 255,182,208
+  --linkcolor: 255,233,241;
+  --mentioncolor: 255,233,241;
+
+/* */
+
+  --textbrightest: 87,36,59;
+  --textbrighter: 87,36,59;
+  --textbright: 87,36,59;
+
+
+/* textdarker = sidebar text color */
+  --textdark: 87,36,59;
+  --textdarker: 87,36,59;
+  --textdarkest: 87,36,59;
+
+
+
+  --font: Iosevka Nerd Font Mono;
+  --backgroundaccent: 199,68,130;
+
+
+/* backgroundprimary = server icon color, activity tab color, etc. (set to hot pink)
+ * backgroundsecondary = main text-area color (set to light pink)
+ * backgroundtertiary = sidebar color (med pink)
+ *
+ * */
+  --backgroundprimary: 199,68,130;
+  --backgroundsecondary: 219,147,180;
+  --backgroundsecondaryalt: 212,130,168;
+  --backgroundtertiary: 212,130,168;
+  --backgroundfloating: 225,117,154;
+
+  --settingsicons: 1;
+
+}
+
